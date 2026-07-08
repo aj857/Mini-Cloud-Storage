@@ -1,0 +1,23 @@
+# Compiled binaries
+server
+client
+server.exe
+client.exe
+
+# Object files
+*.o
+*.obj
+
+# Runtime storage
+storage/
+
+# macOS
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
